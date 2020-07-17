@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514302938792",
+    "firebase_url": "https://cakeworld-7c4ce.firebaseio.com",
+    "project_id": "cakeworld-7c4ce",
+    "storage_bucket": "cakeworld-7c4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514302938792:android:4f1d1a590e3b99ebdc7c9d",
+        "android_client_info": {
+          "package_name": "com.cakeworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514302938792-60ul7mfj4f2jni1hrsien1v7j6q5ifpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsO6WLNCTWeLAhGTaHeczCepXxTpsAKdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514302938792-60ul7mfj4f2jni1hrsien1v7j6q5ifpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
